@@ -1,0 +1,32 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+/* body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #C1B5AD;
+} */
+
+#map {
+  height: 100vh;
+  width: 100vw;
+
+}
+
+#sideBar{
+  height: 50%;
+  width: 50%;
+  position:fixed;
+  background-color: yellow;
+  display:flex;
+flex-direction: column;
+
+z-index: 2;
+
+}
+
+.marker{
+  /* align-items:flex-end; */
+
+}
